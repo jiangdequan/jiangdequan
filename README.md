@@ -9,7 +9,6 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangdequan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github-profile-trophy.vercel.app/?username=jiangdequan&theme=onedark&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
